@@ -16,7 +16,7 @@ A responsive navigation bar project built with HTML, CSS and JavaScript. Feature
 ## Screenshots
 | Desktop View | Mobile View |
 |-------------|-------------|
-| ![Desktop](desktop.png) | ![Mobile](mobile.png) |
+| ![Desktop](https://i.ibb.co/spSFx3YP/image.png) | ![Mobile](mobile.png) |
 
 ## Live Demo
 [View Demo](https://rupeshsivasai.github.io/shopping-nav-html-css-js-project) <!-- Add your demo link -->
