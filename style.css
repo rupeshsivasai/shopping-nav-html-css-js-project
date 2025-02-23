@@ -48,3 +48,39 @@ ul li .btn{
 ul li a:hover {
   border-bottom: 2px solid;
 }
+
+.icon {
+    align-items: center;
+    font-size: 30px;
+    margin-right: 12px;
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    nav ul {
+        display: none;
+    }
+    .icon {
+        display: flex;
+        color: white;
+        cursor: pointer;
+    }
+    .showData{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 60px;
+        height: 240px;
+        width: 100%;
+        background-color: rgba(43, 43, 44, 0.359);
+        text-align: center;
+        padding: 0px;
+        gap: 22px;
+    }
+    ul li .btn{
+        background-color: none;
+        
+    }
+}
