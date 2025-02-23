@@ -19,7 +19,7 @@ A responsive navigation bar project built with HTML, CSS and JavaScript. Feature
 | ![Desktop](desktop.png) | ![Mobile](mobile.png) |
 
 ## Live Demo
-[View Demo]('https://rupeshsivasai.github.io/shopping-nav-html-css-js-project/') <!-- Add your demo link -->
+[View Demo](https://rupeshsivasai.github.io/shopping-nav-html-css-js-project) <!-- Add your demo link -->
 
 ## Setup
 1. Clone repository
